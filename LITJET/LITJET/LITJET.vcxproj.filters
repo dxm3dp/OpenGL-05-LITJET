@@ -21,9 +21,15 @@
     <ClInclude Include="..\HeadFile\gltools.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="..\HeadFile\math3d.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="LitjetMain.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\HeadFile\math3d.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

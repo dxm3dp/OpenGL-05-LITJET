@@ -13,8 +13,10 @@
   <ItemGroup>
     <ClInclude Include="..\HeadFile\GLee.h" />
     <ClInclude Include="..\HeadFile\gltools.h" />
+    <ClInclude Include="..\HeadFile\math3d.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="..\HeadFile\math3d.cpp" />
     <ClCompile Include="LitjetMain.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

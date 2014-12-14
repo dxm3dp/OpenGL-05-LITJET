@@ -1,4 +1,4 @@
-﻿生成启动时间为 2014-12-7 21:04:23。
+﻿生成启动时间为 2014-12-14 9:59:42。
      1>项目“E:\__Codes\OpenGL\OpenGL-05-LITJET\LITJET\LITJET\LITJET.vcxproj”在节点 2 上(build 个目标)。
      1>InitializeBuildStatus:
          正在创建“Debug\LITJET.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
@@ -9,6 +9,7 @@
          所有输出均为最新。
        Link:
          d:\Program Files (custom)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\__Codes\OpenGL\OpenGL-05-LITJET\LITJET\Debug\LITJET.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\LITJET.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\__Codes\OpenGL\OpenGL-05-LITJET\LITJET\Debug\LITJET.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\__Codes\OpenGL\OpenGL-05-LITJET\LITJET\Debug\LITJET.lib" /MACHINE:X86 Debug\LITJET.exe.embed.manifest.res
+         Debug\math3d.obj
          Debug\LitjetMain.obj
        Manifest:
          C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\LITJET.exe.embed.manifest" /manifest Debug\LITJET.exe.intermediate.manifest
@@ -23,4 +24,4 @@
 
 生成成功。
 
-已用时间 00:00:01.30
+已用时间 00:00:00.69
